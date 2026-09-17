@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "159791430875",
+    "firebase_url": "https://gostriders-default-rtdb.firebaseio.com",
+    "project_id": "gostriders",
+    "storage_bucket": "gostriders.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159791430875:android:40c9556094106d57f320fe",
+        "android_client_info": {
+          "package_name": "com.example.gostriders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnt1uBVS8qfW5cAVKzsnUmGPlR0DoDSkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
